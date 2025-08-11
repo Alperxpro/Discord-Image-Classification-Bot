@@ -1,2 +1,2 @@
 # Discord-Image-Classification-Bot
-Ödemişli Bot güncellendi. Yeni sürümüne bakmak ister misiniz?
+Ödemişli Bot'un yeni sürümünde hem espriler 😅 hem de görselleri kaydetme özelliği var 📷. Deneyimlemek ister misin?
